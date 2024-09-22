@@ -9,6 +9,7 @@ Feel free to contact me on any matter!
 <p align="left"> 
   <a href="https://www.microsoft.com/en-gb/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="c" width="26" height="26"/> </a>
    </a>&nbsp;&nbsp;
+   <a href="https://docs.ros.org/en/jazzy/index.html" target="_blank" rel="noreferrer"> <img src="https://github.com/ros-infrastructure/artwork/blob/master/ros_logo.svg" alt="c" width="60" height="26"/> </a>
    <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="c" width="26" height="26"/> </a>
    </a>&nbsp;&nbsp;
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="26" height="26"/> </a>
